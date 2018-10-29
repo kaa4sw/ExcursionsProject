@@ -8,6 +8,7 @@
 
 .img-center {
   justify-content: center;
+  text-align: center;
 }
 
 .link {
@@ -31,6 +32,7 @@ h2 {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 
 p {
