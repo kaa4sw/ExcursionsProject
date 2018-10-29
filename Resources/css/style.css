@@ -1,0 +1,40 @@
+.black {
+  background-color: black;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.img-center {
+  justify-content: center;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.copyright {
+  text-align: right;
+  color: Gray
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
